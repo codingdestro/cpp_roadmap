@@ -4,8 +4,7 @@
 ### start your c++ programming journey
 
 #### Introduction
-Identifiers and keywords
-
+- Identifiers and keywords
 - Data types
 - C++ simple data types
 - Literals
