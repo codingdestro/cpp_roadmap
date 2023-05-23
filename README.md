@@ -3,6 +3,11 @@
 
 ### start your c++ programming journey
 
+``` js
+console.log("hello world")
+```
+
+
 #### Introduction
 - Identifiers and keywords
 - Data types
