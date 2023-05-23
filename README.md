@@ -3,9 +3,7 @@
 
 ### start your c++ programming journey
 
-``` js
-console.log("hello world")
-```
+`` hello world ``
 
 
 #### Introduction
